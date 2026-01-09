@@ -1,0 +1,7 @@
+stranger-things-imdb-analysis/
+│
+├── Stranger_Things_IMDb_Analysis.ipynb
+├── README.md
+├── requirements.txt
+├── data/
+│   └── Stranger_Things_Ratings.csv
